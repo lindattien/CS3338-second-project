@@ -1,0 +1,45 @@
+commit 4a35881c40910901fe5b43ddfa4971831f8be1c1
+Merge: 1b7e12a eeedbfe
+Author: lindattien <lindattien@gmail.com>
+Date:   Wed Sep 3 19:20:36 2025 -0700
+
+    merged index-fix to main branch and removed the extra characters in index.html
+
+commit eeedbfe661d961e9d4e00b7877af85e606ca90eb
+Author: lindattien <lindattien@gmail.com>
+Date:   Wed Sep 3 19:12:09 2025 -0700
+
+    added my favorite movie div to index.html
+
+commit 1b7e12a791f13685a4df06e224492fef91a5aa65
+Author: lindattien <lindattien@gmail.com>
+Date:   Wed Sep 3 19:10:09 2025 -0700
+
+    added my favorite food to index.html
+
+commit 57a342ed8321f99ab8c9221a4ea2fa8d46f96ffb
+Author: lindattien <lindattien@gmail.com>
+Date:   Wed Sep 3 16:59:10 2025 -0700
+
+    added README.md, main branch
+
+commit e57057d1d15346374afabfe7905c8422c301fe98
+Merge: 1d2bfc0 bc1a466
+Author: lindattien <lindattien@gmail.com>
+Date:   Wed Sep 3 16:47:47 2025 -0700
+
+    Merge pull request #1 from lindattien/info-fill
+    
+    filled blanks in index.html
+
+commit bc1a4668038bca8cad516124ab1dbf3e717783f4
+Author: lindattien <lindattien@gmail.com>
+Date:   Wed Sep 3 16:08:57 2025 -0700
+
+    filled blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
